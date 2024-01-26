@@ -1,0 +1,7 @@
+ruta de git 
+git branch -M main
+git remote add origin git@github.com:LEONARDOSAUL2720/conchita.git
+
+
+ruta de navegador 
+http://conchita.com.devel/
